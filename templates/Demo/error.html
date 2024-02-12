@@ -1,0 +1,32 @@
+{% extends 'Demo/base.html' %}
+{% load static %}
+
+{% block extrahead %}
+{% endblock %}
+{% block extrastyles %}
+{% endblock %}
+
+{% block body %}
+<section class="container" >
+    <div class="row">
+      <div class="col-md-4"></div>
+      <div class="col-md-4">
+        <h1>Error:</h1>
+          <pre>
+              {{ serialized_data | safe }}
+          </pre>
+          <form action="/" method="get">
+            <button class="btn btn-primary">
+                Volver a probar
+            </button>
+          </form>
+      </div>
+      <div class="col-md-4"></div>
+    </div>
+  </section>
+{% endblock %}
+
+{% block extrajs %}
+    <script>
+    </script>
+{% endblock %}
