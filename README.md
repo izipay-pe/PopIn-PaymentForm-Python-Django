@@ -46,27 +46,27 @@ Python, extensión para Visual Studio Code que ofrece soporte completo para el l
 Antes de ejecutar el proyecto, se creará el virtual environment (venv):
 1. Presionar `ctrl` + `shift` + `p` para abrir la paleta de comandos y buscar `Python: Select Interpreter`
 <p align="center">
-  <img src="https://i.postimg.cc/yYpXprHt/Select-Interpreter.png" alt="PanelComandos" width="850"/>
+  <img src="https://i.postimg.cc/yYpXprHt/Select-Interpreter.png" alt="PanelComandos" width="600"/>
 </p>
 2. Seleccionar `Create Virtual Environment`
 <p align="center">
-  <img src="https://i.postimg.cc/43fcJ6sV/Create-Env.png" alt="CreateVenv" width="850"/>
+  <img src="https://i.postimg.cc/43fcJ6sV/Create-Env.png" alt="CreateVenv" width="600"/>
 </p>
 3. Seleccionar el tipo de venv
 <p align="center">
-  <img src="https://i.postimg.cc/PJ2zjS8L/Venv.png" alt="SelectVenv" width="850"/>
+  <img src="https://i.postimg.cc/PJ2zjS8L/Venv.png" alt="SelectVenv" width="600"/>
 </p>
 4. Seleccionar la versión de Python
 <p align="center">
-  <img src="https://i.postimg.cc/1RHKw3Y9/Select-Python.png" alt="SelectPython" width="850"/>
+  <img src="https://i.postimg.cc/1RHKw3Y9/Select-Python.png" alt="SelectPython" width="600"/>
 </p>
 5. Seleccionar archivo de dependencias `requirements.txt`
 <p align="center">
-  <img src="https://i.postimg.cc/pr2Y4wyb/Requirements.png" alt="SelectRequirements" width="850"/>
+  <img src="https://i.postimg.cc/pr2Y4wyb/Requirements.png" alt="SelectRequirements" width="600"/>
 </p>
 6. Una vez instaladas las dependencias, verificar el venv creado mediante `ctrl` + `shift` + `p`, buscar `Python: Select Interpreter` y seleccionar venv
 <p align="center">
-  <img src="https://i.postimg.cc/TY3J9vZn/Select-Env.png" alt="SelectInterpreter" width="850"/>
+  <img src="https://i.postimg.cc/TY3J9vZn/Select-Env.png" alt="SelectInterpreter" width="600"/>
 </p>
 
 ### Ejecutar proyecto
