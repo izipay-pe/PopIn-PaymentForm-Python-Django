@@ -92,7 +92,7 @@ Ejecutar el proyecto:
 
 * Editar en `Keys/keys.py` :
 <p align="center">
-  <img src="https://i.postimg.cc/k4NvjJJv/Credentials.pngg" alt="Credentials"/>
+  <img src="https://i.postimg.cc/k4NvjJJv/Credentials.png" alt="Credentials"/>
 </p>
 
 ## 5. Transacción de prueba
