@@ -12,6 +12,10 @@
 En este manual podrás encontrar una guía paso a paso para configurar un proyecto de **[Python - Django]** con la pasarela de pagos de IZIPAY. Te proporcionaremos instrucciones detalladas y credenciales de prueba para la instalación y configuración del proyecto, permitiéndote trabajar y experimentar de manera segura en tu propio entorno local.
 Este manual está diseñado para ayudarte a comprender el flujo de la integración de la pasarela para ayudarte a aprovechar al máximo tu proyecto y facilitar tu experiencia de desarrollo.
 
+> [!IMPORTANT]
+> Recientemente ha ocurrido una actualización por parte del proveedor donde se agrean los campos del nombre del tarjetahabiente y el correo
+> El campo de correo se visualizará siempre y cuando el dato no se envie en la creación del formtoken
+
 <p align="center">
   <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_popin/Imagen-Formulario-Popin.png?raw=true" alt="Formulario" width="350"/>
 </p>
