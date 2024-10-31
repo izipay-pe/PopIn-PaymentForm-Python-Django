@@ -13,7 +13,7 @@ En este manual podrás encontrar una guía paso a paso para configurar un proyec
 Este manual está diseñado para ayudarte a comprender el flujo de la integración de la pasarela para ayudarte a aprovechar al máximo tu proyecto y facilitar tu experiencia de desarrollo.
 
 > [!IMPORTANT]
-> En la última actualización se agregaron los campos: **nombre del tarjetahabiente** y el **correo electrónico** (Este campo se visualizará siempre y cuando el dato no se envie en la creación del formtoken).
+> En la última actualización se agregaron los campos: **nombre del tarjetahabiente** y **correo electrónico** (Este último campo se visualizará solo si el dato no se envía en la creación del formtoken).
 
 <p align="center">
   <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_popin/Imagen-Formulario-Popin.png?raw=true" alt="Formulario" width="350"/>
